@@ -10,7 +10,8 @@ android {
     buildToolsVersion "23.0.3"
     enforceUniquePackageName false
     defaultConfig {
-        applicationId "org.chromium.chrome.browser"
+//        applicationId "org.chromium.chrome.browser"
+        applicationId "com.candykk.chrome.browser"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
